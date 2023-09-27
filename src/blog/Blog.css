@@ -1,0 +1,16 @@
+.blog{
+    border: 0.11em solid lime;
+    border-radius: 1em;
+    background-color: #888888;
+    width: 30em;
+    margin-bottom: 1em;
+}
+.h2_answer_question{
+    font-size: 1em;
+    color: greenyellow;
+}
+
+img{
+    width: 5em;
+
+}

@@ -1,0 +1,16 @@
+nav li{
+    display: inline;
+    list-style-type: none;
+}
+li{
+    margin: 0.3em;
+    padding: 0.2em;
+    border: 0.1em solid lime;
+}
+a{
+    color: lime;
+    text-decoration: none;
+}
+a:hover{
+    color: greenyellow;
+}
